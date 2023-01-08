@@ -1,0 +1,25 @@
+id: A0DCDB5BE
+title: Long Life Prayer for Lodi Gyari Rinpoche
+type: translation
+pechas:
+- I14EEDDD0
+- I9D924B09
+- I47C50442
+- IBFE5F265
+source_metadata:
+  languages:
+  - en
+  - de
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:58:26.576787
+  last_modified_at: 2023-01-04 12:58:26.576806
+  collections:
+  - Lodi Gyari Rinpoche
+  - Works of Tibetan Masters
+alignment_to_base:
+  I14EEDDD0/91EC: '0034'
+  I9D924B09/20ED: '0034'
+  I47C50442/A99A: '0034'
+  IBFE5F265/62FB: '0034'
